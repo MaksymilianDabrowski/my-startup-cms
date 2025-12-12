@@ -1,1 +1,6 @@
-export const schemaTypes = []
+import frontPageContent from "./frontPageContent"
+
+export const schemaTypes = [
+    frontPageContent,
+]
+
